@@ -8,6 +8,12 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "posts/comments/avaliable": [
+    { "body": {
+      "codigo": "DH",
+      "descricao": "DISPONíVEL PARA HABILITAçãO (EXPEDIDO)"
+    }, "user": "Rafael" }
+  ],
   "profile": {
     "name": "typicode"
   }
